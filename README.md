@@ -19,3 +19,6 @@ samples, guidance on mobile development, and a full API reference.
 
 pv-profile-section__section-info section-info browsemap mt4
 class="pv-browsemap-section__member ember-view"
+
+
+pv-browsemap-section__member-container pv-browsemap-section__member-container-line ember-view
